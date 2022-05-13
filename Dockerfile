@@ -1,5 +1,5 @@
 FROM python:3
-MAINTAINER Faizul Islam (faizulcse@gmail.com)
+MAINTAINER Md Nazrul Islam (nazrul.qups@gmail.com)
 
 WORKDIR /usr/src/app
 COPY requirements.txt ./
